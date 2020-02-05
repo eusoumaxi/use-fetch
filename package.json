@@ -1,0 +1,11 @@
+{
+  "name": "@mmckelvy/use-fetch",
+  "version": "1.0.0",
+  "description": "Fetch hook for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark McKelvy",
+  "license": "MIT"
+}
